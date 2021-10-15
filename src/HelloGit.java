@@ -8,6 +8,7 @@ public class HelloGit {
 		
 		System.out.println("연동 및 동기화");
 		System.out.println("대충 집에서 작업한내용");
+		System.out.println("금요일");
 		
 
 	}
